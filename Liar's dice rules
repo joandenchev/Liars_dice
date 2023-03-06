@@ -1,0 +1,33 @@
+Liar's dice
+-------------
+
+Played by 2 or more players
+2 modes - coop,   pvp
+2 modes - normal, wild
+Options
+
+Each player has a cup with 5 dice
+Round based game 
+
+When the round starts players roll their dice
+First player begins his turn by "bidding"
+
+BIDDING - announce face value and number of dice, claiming how many dice with this particlar value are there on the WHOLE table
+
+Turns rotate in a clockwise order
+Next player chooses between making a HIGHER BID or CHALLENGING the previous bid
+
+RAISING THE BID - the player can bid a higher quantity of the same face or any quantity of a higher face
+CHALLENGING THE BID - reveals all dice and check if the bid is valid
+VALID BID - there are at least as many face values as were bid (or more)
+
+If the bid is valid - the bidder wins, else - the challenger wins
+Losing a round lowers a player's dice count by 1
+
+At round start the player who lost a dice last round goes first
+If the player was eliminated, then the next player (clockwise) begins
+
+THE GAME IS WON BY THE PLAYER WHO RETAINS A DIE AT THE END
+
+Wild mode:
+The “ones” face of the dice is considered wild – it always counts as the face of the current bid
